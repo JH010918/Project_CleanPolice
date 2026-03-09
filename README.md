@@ -8,6 +8,7 @@
   - 웹 인터페이스를 통해 카메라 촬영
   - 사용자가 촬영한 방 사진을 AI가 분석하여 방의 청결도 판단
   - 분석 결과를 기반으로 방의 청결도를 점수로 제공
+- 이미지 데이터 : https://drive.google.com/file/d/1zRa7_d0KYaFIF0zut54_O40gkiUf1IgI/view?usp=drive_link
 ## 🔧 기술 스택
 | 기술 | 설명 |
 |----------|------------|
