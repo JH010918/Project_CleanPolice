@@ -54,6 +54,6 @@
 - Early stopping 적용
 
 ## 🎥 시연
-![clean](mp4/clean.mp4)
+
 
 
