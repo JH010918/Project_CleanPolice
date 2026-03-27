@@ -54,6 +54,9 @@
 - Early stopping 적용
 
 ## 🎥 시연
-
+![uiux1](img/ui_ux1.jpg)
+![uiux1](img/ui_ux2.png)
+![uiux1](img/ui_ux3.png)
+![uiux1](img/ui_ux4.png)
 
 
