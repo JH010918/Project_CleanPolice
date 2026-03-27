@@ -12,10 +12,8 @@
   - 방 정리 습관 형성
   - 삶의 질 향상
 - 주요 기능 :
-  - 웹 서버를 통해 AI 모델 제공
   - 이미지 업로드 및 청결도 점수화 (0~100점)
-  - Grad-CAM을 이용한 오염/무질서 구역 시각화(히트맵)
-  - YOLO 기반의 객체 분포 분석
+  - Grad-CAM을 이용한 dirty 구역 시각화 및 YOLO 기반 객체 분포 분석
   - CLIP 기반의 방 상태 요약
 - 이미지 데이터 : https://drive.google.com/drive/folders/1xH8Oj7zAddebDz-nC4Pb0cQJk2OXOPtT?usp=drive_link
 ## 🔧 기술 스택
