@@ -32,6 +32,9 @@
 ![system_architecture](img/system_architecture.png)
 
 ## 💾 데이터
+<details>
+    <summary>자세히</summary>
+  
 ### 1️⃣ 수집
 > - Python을 사용한 방/책상 사진 웹 크롤링  
 > - 사람, 워터마크 등 포함된 이미지 제거  
@@ -44,6 +47,9 @@
 > - clean  
 > - dirty  
 > - 판단 기준 : 10.1017/S1041610209990135 참고  
+
+</details>
+
 
 ## 🎥 시연
 ![uiux1](img/ui_ux1.jpg)
@@ -71,9 +77,4 @@
 > 일부 이미지에서 사람과 모델 간 청결도 인식 차이 발생
 #### 해결방법
 > Heatmap 결과에 기반한 추가 데이터를 수집하여 데이터셋 편향을 감소시킴
-### 4️⃣ tensorflow 버전 차이 문제
-![ts](img/ts4.jpg)
-#### 문제
-> 운영체제 별 tensorflow 지원 버전 차이로 인해 결과값 차이가 발생함
-#### 해결방법
-> Linux 환경에서 모델을 재학습시켜 결과값 차이를 없앰
+
